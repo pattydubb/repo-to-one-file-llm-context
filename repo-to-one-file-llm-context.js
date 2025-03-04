@@ -95,7 +95,8 @@
       "parameters": {
         "authentication": "oAuth2",
         "operation": "update",
-        "documentURL": "https://docs.google.com/document/d/1z0_qoScw6UDXvBqRJ709-_jLMN15lpYC1a24cgKMFLY/edit?tab=t.814lds8bgluw",
+        "documentURL": ""documentURL": "<Insert your Google Doc URL here>",
+",
         "actionsUi": {
           "actionFields": [
             {
